@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice-important",
+  "version": "1.0.0",
+  "description": "A few practical tests for JavaScript functions using the Jest library. I follow the AAA pattern to make my tests easier for other developers to read and understand. I will also try to use the TDD approach in practice.",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RashidMenhas/Testing-practice-important.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RashidMenhas/Testing-practice-important/issues"
+  },
+  "homepage": "https://github.com/RashidMenhas/Testing-practice-important#readme",
+  "devDependencies": {
+    "jest": "^29.2.1"
+  }
+}
